@@ -4,9 +4,9 @@
 // @category       Layer
 // @version        0.6.4.20140808.0700
 // @namespace      https://github.com/mkg71/iitc/
-// @updateURL      https://guthub.com/mkg71/iitc/draw-tools-merge.meta.js
-// @downloadURL    https://guthub.com/mkg71/iitc/draw-tools-merge.user.js
-// @description    [jonatkins-2014-07-05-043348] Allow drawing things onto the current map so you may plan your next move.
+// @-- updateURL      
+// @-- downloadURL    
+// @description    [mkg71-2014-08-08-043348] Allow drawing things (and Merge) onto the current map so you may plan your next move.
 // @include        https://www.ingress.com/intel*
 // @include        http://www.ingress.com/intel*
 // @match          https://www.ingress.com/intel*
